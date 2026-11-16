@@ -11,4 +11,10 @@ double b=2;
 
   print("the whole number of this division is ${a~/b}");
   print("the whole number of this division is ${a/b}");
+
+  int pre= 10;
+  // pre++;
+  int z= pre++;
+  print(z);
+
 }
