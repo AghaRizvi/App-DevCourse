@@ -32,6 +32,5 @@ void main() {
     print("Invalid number: '$input'");
     return;
   }
-
   print(discountOffer(price));
 }
