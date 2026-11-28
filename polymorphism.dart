@@ -21,4 +21,5 @@ class square extends shapes{
 main(){
   square s1=square();
   s1.area(5, 5);
+
 }
