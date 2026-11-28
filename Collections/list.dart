@@ -38,7 +38,7 @@ main(){
   });
 
 
-  var pracList= ["arshad", "tariq", "nabi", "aqeel"];
+  var pracList= ["arshad", "tariq abbas", "nabi", "aqeel"];
   pracList.add("shakeel");
   print('after add : $pracList');
   pracList.remove("tariq");
